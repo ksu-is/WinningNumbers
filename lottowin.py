@@ -24,5 +24,5 @@ lotteryNumbers.sort()
 print(">>> Today's lucky lottery numbers are: ") 
 print(lotteryNumbers)
 
-
+print("Have a great day, hope you win!")
 
