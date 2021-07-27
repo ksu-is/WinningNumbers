@@ -23,3 +23,6 @@ lotteryNumbers.sort()
 #Display the list on screen:
 print(">>> Today's lucky lottery numbers are: ") 
 print(lotteryNumbers)
+
+
+print("Have a great day, hope you win!")
