@@ -21,5 +21,5 @@ for i in range (0,6):
 lotteryNumbers.sort()
 
 #Display the list on screen:
-print(">>> Today's lottery numbers are: ") 
+print(">>> Today's lucky lottery numbers are: ") 
 print(lotteryNumbers)
