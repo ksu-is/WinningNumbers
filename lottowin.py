@@ -1,23 +1,23 @@
-#Here I've copied the code from my Visual Studio Code 
+#My copied code from Visual Studio Code 
 import random
 
-#Initialise an empty list that will be used to store the 6 lucky numbers!
+#Empty list used to store the 6 lucky numbers!
 lotteryNumbers = []
-
+ #1-69 
 for i in range (0,6):
-  number = random.randint(1,50)
-  #Check if this number has already been picked and ...
+  number = random.randint(1,69)
+  #Check if this number has already been picked...
   while number in lotteryNumbers:
-    # ... if it has, pick a new number instead 
-    number = random.randint(1,50)
+    # ..if number has been picked.. pick a new number instead 
+    number = random.randint(1,69)
   
-  #Now that we have a unique number, let's append it to our list.
+  #Append unique number to our list 
   lotteryNumbers.append(number)
 
-#Sort the list in ascending orderr
+#Sort the list in ascending order
 lotteryNumbers.sort()
 
-#Display the list on screen:
+#Display list on screen:
 print(">>> Today's lucky lottery numbers are: ") 
 print(lotteryNumbers)
 
