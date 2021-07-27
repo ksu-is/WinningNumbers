@@ -1,5 +1,7 @@
 #Lottery Numbers - www.101computing.net/lottery-numbers
 
+
+#Here I've copied the code from my Visual Studio Code 
 import random
 
 #Initialise an empty list that will be used to store the 6 lucky numbers!
