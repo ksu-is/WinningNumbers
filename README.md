@@ -1,2 +1,2 @@
-# WinningNumbers
+# WinningNumbers-Lotto Win
 - A virtual number generator that randomizes lottery winning numbers for users for the Powerball. In the Powerbll, out of 69 balls, 5 are drawn at a time per play. There is an extra ball drawn aside from the first 5 and that is referred to as the "Powerball". The extra "Powerball" ranges from 1-26. This will not be reflected in the random probabilities. Edits to this project will occur if time permits. 
