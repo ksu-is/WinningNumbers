@@ -15,7 +15,7 @@ for i in range (0,6):
   #Now that we have a unique number, let's append it to our list.
   lotteryNumbers.append(number)
 
-#Sort the list in ascending order
+#Sort the list in ascending orderr
 lotteryNumbers.sort()
 
 #Display the list on screen:
