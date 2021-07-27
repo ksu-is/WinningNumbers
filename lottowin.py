@@ -1,4 +1,4 @@
-#Lottery Numbers - www.101computing.net/lottery-numbers
+
 
 
 #Here I've copied the code from my Visual Studio Code 
@@ -25,4 +25,4 @@ print(">>> Today's lucky lottery numbers are: ")
 print(lotteryNumbers)
 
 
-print("Have a great day, hope you win!")
+
