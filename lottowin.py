@@ -1,6 +1,3 @@
-
-
-
 #Here I've copied the code from my Visual Studio Code 
 import random
 
